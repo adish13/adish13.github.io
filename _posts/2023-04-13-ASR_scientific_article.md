@@ -1,15 +1,21 @@
 ---
 layout: post
-title: The Era Of The System On Chip
-permalink: the-era-of-the-system-on-chip
-redirect_from: "/2021/11/23/the-era-of-the-system-on-chip/"
+title: Real-Time Neural Voice Camouflage
+permalink: asr-scientific-article
+redirect_from: "/2023/4/13/asr-scientific-article/"
 tags:
 - architecture
 - soc
-description: A look into how System On Chips are moving into the Desktop Computer Architecture Scene.
+description: An article on the research paper [] by Mia Chiquier, Chengzhi Mao, Carl Vondrick.
 ---
-_This blog post was written as part of CS305 by Team Atlanna's Quindent_
+_This blog post was written as part of CS 753 by Team Honeybeest_
 
+"Alexa, play _End of Time_ by Alan Walker" 
+Isn't it amazing how nowadays, without moving an inch, one can access anything online by just uttering a magic word, followed by any bizarre request that comes to mind!
+
+Well, thanks to the developments in the automatic speech recognition field, all this is possible on any appliance.
+
+However exciting this is, most of us have valid concerns about privacy and some are quite paranoid about this, and rightfully so!
 
 One of the biggest changes that we have seen recently in the field of computer hardware, has been the introduction of System On Chips for personal computing. Previously SoCs were limited to computing devices that needed limited power, mostly handheld devices. But recently Apple has starting using their M1 family of SoCs across their entire Macintosh line of devices. Qualcomm has also jumped into the bandwagon, and started manufacturing ARM based laptops. On the other side we have Tesla using their custom designed SoCs to power self driving cars.
 Clearly a lot has changed that has resulted in this shift in direction, many computers now no longer have the flexibility that a motherboard and distinct components provide. We will try to see what brought about this change and look at possible benefits to us as users and also drawbacks in this blog. But before we get there we must look into the history of personal computing and see where the idea of SoC chimes in.
