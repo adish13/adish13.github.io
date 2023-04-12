@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Projects
 permalink: /projects/
@@ -44,4 +44,4 @@ nav: true
   </div>
 {% endfor %}
 
-</div>
+</div> -->
