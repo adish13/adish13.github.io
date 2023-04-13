@@ -8,14 +8,28 @@ tags:
 - soc
 description: An article on the research paper [] by Mia Chiquier, Chengzhi Mao, Carl Vondrick.
 ---
-_This blog post was written as part of CS 753 by Team Honeybeest_
+_This blog post was written as part of CS 753 by Team Honeybees_
 
 "Alexa, play _End of Time_ by Alan Walker" 
 Isn't it amazing how nowadays, without moving an inch, one can access anything online by just uttering a magic word, followed by any bizarre request that comes to mind!
 
 Well, thanks to the developments in the automatic speech recognition field, all this is possible on any appliance.
 
-However exciting this is, most of us have valid concerns about privacy and some are quite paranoid about this, and rightfully so!
+However exciting this is, most of us have valid concerns about privacy and some are quite paranoid about this, and rightfully so! It is frightening to think that the exciting ASR applications enable opportunities for privacy invasion, and eavesdropping.
+
+There's a high need for real-time voice camouflage and this article gives a brief overview of the same.
+The paper presents a novel method for disrupting ASR systems in real time, while also being robust and general (works for the majority of the English language).
+
+## Motivation for real time attacks
+We present our approach for creating real-time obstructions to automatic speech recognition (ASR)
+systems. We first motivate the background for real-time attacks, then introduce our approach that
+achieves online performance through predictive attack models.
+
+
+## Predictive Real-time attacks
+
+## Experiments and Results
+
 
 One of the biggest changes that we have seen recently in the field of computer hardware, has been the introduction of System On Chips for personal computing. Previously SoCs were limited to computing devices that needed limited power, mostly handheld devices. But recently Apple has starting using their M1 family of SoCs across their entire Macintosh line of devices. Qualcomm has also jumped into the bandwagon, and started manufacturing ARM based laptops. On the other side we have Tesla using their custom designed SoCs to power self driving cars.
 Clearly a lot has changed that has resulted in this shift in direction, many computers now no longer have the flexibility that a motherboard and distinct components provide. We will try to see what brought about this change and look at possible benefits to us as users and also drawbacks in this blog. But before we get there we must look into the history of personal computing and see where the idea of SoC chimes in.
@@ -24,7 +38,7 @@ Clearly a lot has changed that has resulted in this shift in direction, many com
 
 Before the advent of integrated circuits, computers were bulky and heavy. One of the earliest general purpose programmable computers, the [ENIAC](https://en.wikipedia.org/wiki/ENIAC) was known for occupying an entire room and used to consume 150 kW of power. Those computers were known for using vacuum tubes for controling the flow of electricity and this was used for a lot of the components of the computer. Not only was it enormous in size, it was also quite inefficient and needed massive cooling. Indeed the size of this computer could rival several supercomputers now despite having the computing power that today's simplest devices can beat a million times over.
 
-|![](https://i.imgur.com/h9O5kKp.jpg)|
+|![](https://imgur.com/a/OAfVPoO)|
 |:--:|
 |*ENIAC: one of the earliest general purpose computer*|
 
