@@ -10,12 +10,14 @@ description: An article on the research paper [] by Mia Chiquier, Chengzhi Mao, 
 ---
 _This blog post was written as part of CS 753 by Team Honeybees_
 
-"Alexa, play _End of Time_ by Alan Walker" 
+"Alexa, play _End of Time_ by Alan Walker"
+
+
 Isn't it amazing how nowadays, without moving an inch, one can access anything online by just uttering a magic word, followed by any bizarre request that comes to mind!
 
 Well, thanks to the developments in the automatic speech recognition field, all this is possible on any appliance.
 
-However exciting this is, most of us have valid concerns about privacy and some are quite paranoid about this, and rightfully so! It is frightening to think that the exciting ASR applications enable opportunities for privacy invasion, and eavesdropping.
+However exciting this is, there are reasons to have valid concerns about privacy and rightfully so! It is frightening to think that the exciting ASR applications enable opportunities for privacy invasion, and eavesdropping.
 
 |![](https://i.imgur.com/bQEYcHh.jpg)|
 |:--:|
@@ -123,3 +125,5 @@ The paper uses neural networks to model predictive attacks that are optimized to
 Can definitely sleep well now, knowing Alexa can be disrupted to not listen to my private conversations, phew.
 <br>
 
+## References
+1. [Real-Time Neural Voice Camouflage, by Mia Chiquier, Chengzhi Mao, Carl Vondrick](https://arxiv.org/pdf/2112.07076.pdf)
